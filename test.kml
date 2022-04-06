@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>test.kml</name>
+	<Style id="default1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="default10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="default11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>15</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>test.kml</name>
+		<open>1</open>
+		<styleUrl>#default</styleUrl>
+		<LineString>
+			<coordinates>
+				-0.7584256999999999,52.0935732,0 -0.7579994,52.0931474,0 -0.7561079000000001,52.09100850000001,0 -0.7548453999999999,52.08956019999999,0 -0.753574,52.0881147,0 -0.7519668,52.0862975,0 -0.7515999,52.085911,0 -0.7513107,52.0856346,0 -0.7504613000000001,52.0848634,0 -0.7492496,52.083887,0 -0.7480544,52.0831132,0 -0.7457762999999999,52.0817705,0 -0.7445356999999999,52.0810683,0 -0.7443984,52.0809828,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>test.kml</name>
+		<open>1</open>
+		<styleUrl>#default11</styleUrl>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-0.7584256999999999,52.0935732,1 -0.7579994,52.0931474,1 -0.7561079000000001,52.09100850000001,1 -0.7548453999999999,52.08956019999999,1 -0.753574,52.0881147,1 -0.7519668,52.0862975,1 -0.7515999,52.085911,1 -0.7513107,52.0856346,1 -0.7504613000000001,52.0848634,1 -0.7492496,52.083887,1 -0.7480544,52.0831132,1 -0.7457762999999999,52.0817705,1 -0.7445356999999999,52.0810683,1 -0.7443984,52.0809828,1 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
