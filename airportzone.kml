@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>airportzone.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>800000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>807f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ff0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>800000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>800000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>807f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Runway restricted zone</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.624754949441223,52.06521353530869,1 -0.6230856792145878,52.06455547387355,1 -0.6085359618559227,52.07896448498168,1 -0.6103775373573761,52.07964398166806,1 -0.624754949441223,52.06521353530869,1 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Enhanced warning zone</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.626620099120816,52.06592251274364,0.7999999999999999 -0.6212768640304034,52.06388264706693,0.7999999999999999 -0.6067884638568977,52.07833088598422,0.7999999999999999 -0.6121606085602638,52.08030814671547,0.7999999999999999 -0.626620099120816,52.06592251274364,0.7999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Enhanced warning zone</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6266297821838773,52.06591788977993,0.7999999999999999 -0.6268248862334036,52.06569145730241,0.7999999999999999 -0.6269420614493937,52.06546511883189,0.7999999999999999 -0.6270163081565261,52.06526556642093,0.7999999999999999 -0.6270555395465027,52.06506956825484,0.7999999999999999 -0.6270489863534945,52.06487269253453,0.7999999999999999 -0.6269986443990494,52.06465869606075,0.7999999999999999 -0.626907222171561,52.06447252471414,0.7999999999999999 -0.6267630536510893,52.0642659163727,0.7999999999999999 -0.6266750937460497,52.06414066884422,0.7999999999999999 -0.6264406596289007,52.06394607368978,0.7999999999999999 -0.6262209725919587,52.06377293760678,0.7999999999999999 -0.6259928589431385,52.06361929221137,0.7999999999999999 -0.6257847330024968,52.06350418429479,0.7999999999999999 -0.6255109117338675,52.06339257373587,0.7999999999999999 -0.6252889451702881,52.06330209822024,0.7999999999999999 -0.6250499236161888,52.06322727730704,0.7999999999999999 -0.6247970723568286,52.06315429740221,0.7999999999999999 -0.6245754769815193,52.06310905137048,0.7999999999999999 -0.6242903327860139,52.06308588034194,0.7999999999999999 -0.6240615878034983,52.06306591548067,0.7999999999999999 -0.6238008847244736,52.06304448508372,0.7999999999999999 -0.6235450835358125,52.06305022539744,0.7999999999999999 -0.6233211609845213,52.0630552499549,0.7999999999999999 -0.6231199521048736,52.06306732365561,0.7999999999999999 -0.6229262302954097,52.06309167248724,0.7999999999999999 -0.6227001003148591,52.06312395238859,0.7999999999999999 -0.6225204248092553,52.06317235836483,0.7999999999999999 -0.6223368799922802,52.06323408306581,0.7999999999999999 -0.6221532030530519,52.06330524302573,0.7999999999999999 -0.622008250440319,52.06336521404833,0.7999999999999999 -0.6218495692758008,52.06343862967515,0.7999999999999999 -0.6217234327321408,52.06351163660165,0.7999999999999999 -0.6216080319536677,52.06359972707919,0.7999999999999999 -0.621520947047991,52.06366589477095,0.7999999999999999 -0.6214442614963822,52.06372760363384,0.7999999999999999 -0.6213742433419478,52.06379626909604,0.7999999999999999 -0.6212837152821893,52.06388397146861,0.7999999999999999 -0.6266297821838773,52.06591788977993,0.7999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Enhanced warning zone</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6067717189041333,52.07832919662059,0.7999999999999999 -0.6067428801565433,52.07836706203617,0.7999999999999999 -0.6066682800567458,52.07843403071561,0.7999999999999999 -0.6065883511467651,52.07850578282925,0.7999999999999999 -0.606509132670896,52.07859509081153,0.7999999999999999 -0.6064187988222947,52.07870862906231,0.7999999999999999 -0.6063670695946133,52.07878550085135,0.7999999999999999 -0.6063267259673844,52.07885603742788,0.7999999999999999 -0.6062926148576375,52.07894361628888,0.7999999999999999 -0.606264519766454,52.07903416398176,0.7999999999999999 -0.6062271000780561,52.07914976570782,0.7999999999999999 -0.6062529339740286,52.0793000811225,0.7999999999999999 -0.606281503214422,52.07944131568843,0.7999999999999999 -0.606323438971319,52.07957217186276,0.7999999999999999 -0.6064230838923335,52.07971281208643,0.7999999999999999 -0.6065500972651727,52.07984933422252,0.7999999999999999 -0.6067182278209304,52.07998788935569,0.7999999999999999 -0.6068780577790189,52.08012968758412,0.7999999999999999 -0.6070698052648382,52.08025657158568,0.7999999999999999 -0.6072875017174328,52.08038377081445,0.7999999999999999 -0.607541422011334,52.08052216042748,0.7999999999999999 -0.6078168885619539,52.0806583089545,0.7999999999999999 -0.6080712050039794,52.08075239095128,0.7999999999999999 -0.6083226248070761,52.08084467123324,0.7999999999999999 -0.6086076293820264,52.08093261894636,0.7999999999999999 -0.6088418508900351,52.08098949455741,0.7999999999999999 -0.6091393901136444,52.08103529695303,0.7999999999999999 -0.6094290256311641,52.08108263079989,0.7999999999999999 -0.6096722239988484,52.08110072699462,0.7999999999999999 -0.6099413626559691,52.0811093525496,0.7999999999999999 -0.6102653941850977,52.08109408778913,0.7999999999999999 -0.6105553528964491,52.08106828769591,0.7999999999999999 -0.6107977209084492,52.08101990139265,0.7999999999999999 -0.6111257637028378,52.08095322970613,0.7999999999999999 -0.6113547916530426,52.08086249947518,0.7999999999999999 -0.6115981170926499,52.08073642512344,0.7999999999999999 -0.6118260977058976,52.08058969741604,0.7999999999999999 -0.6119933722728454,52.08045112958992,0.7999999999999999 -0.6121511439854799,52.08030880932451,0.7999999999999999 -0.6067717189041333,52.07832919662059,0.7999999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Warning zone</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6191184020271312,52.06303468131154,0 -0.6046433624315295,52.07754711302564,0 -0.6140632334812168,52.0810468885246,0 -0.6284125684816555,52.06656509453846,0 -0.6191184020271312,52.06303468131154,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Warning zone</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6284414278072248,52.06656332277557,0 -0.628765988725416,52.06623739420311,0 -0.6290275917533361,52.06590814218819,0 -0.6293147518823616,52.06548667638529,0 -0.6294410924251592,52.06512689537863,0 -0.6295728359626984,52.06472841564563,0 -0.6294488194417358,52.06425407027206,0 -0.6293140004286424,52.06385712291083,0 -0.6289770404733241,52.06336374906193,0 -0.6285220751472809,52.0629888987236,0 -0.6281246666652884,52.06265606731268,0 -0.6274941670691059,52.06235771817982,0 -0.6268100812035315,52.06207992955706,0 -0.6261933501381545,52.06190513060007,0 -0.6255555636241728,52.06170966189839,0 -0.6248016967692316,52.06156851902675,0 -0.6241535693999678,52.06148752859041,0 -0.6235295455102563,52.06141560315761,0 -0.6229965000943993,52.06141864605684,0 -0.6224137085057113,52.06148094548625,0 -0.6219757652236424,52.06151853500881,0 -0.6214977602752492,52.06161013560681,0 -0.6209662870815047,52.06175919464034,0 -0.6205264104293617,52.06192455624789,0 -0.6201676310033832,52.06212717776958,0 -0.6198465939018305,52.06234694962018,0 -0.6195921827622553,52.06257292550652,0 -0.6193782702612527,52.06278637496686,0 -0.6190989342862518,52.06303723394057,0 -0.6284414278072248,52.06656332277557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Warning zone</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6046511369201524,52.07754553362567,0 -0.6045171015771078,52.07769569529992,0 -0.6043731066965186,52.07785285634753,0 -0.6041878630573905,52.07814057989576,0 -0.6041432755312193,52.07837781714507,0 -0.6040712809410098,52.0786314859121,0 -0.6040856205260692,52.07883975439295,0 -0.6041163131310667,52.07916795566427,0 -0.6043000118435982,52.07952075637754,0 -0.6045470067318903,52.07982744197233,0 -0.6047143753306206,52.08001921761604,0 -0.6049031084807188,52.08021859470292,0 -0.6050531461122577,52.08037050169884,0 -0.6052389514991141,52.08054995296816,0 -0.6054520985262324,52.08072290860003,0 -0.6056689875183785,52.08089472543793,0 -0.6059043229735317,52.08106051325674,0 -0.6061443239745745,52.08121363782265,0 -0.6064021312011214,52.0813527971906,0 -0.6067019890070968,52.08149111230286,0 -0.6069642645672968,52.08161517921459,0 -0.6072106071388184,52.08172007624547,0 -0.6074588378514034,52.08181937602458,0 -0.607751248405114,52.08190497772969,0 -0.608063286566084,52.08199146464094,0 -0.6084919084700535,52.08209273602344,0 -0.6088363427760501,52.08215660414717,0 -0.6092767892663098,52.08223597095433,0 -0.6096401079440028,52.08227257503975,0 -0.6100012395044185,52.08229030597511,0 -0.6104042128643494,52.08229942378088,0 -0.6107925320836594,52.08225936183512,0 -0.6110753245808886,52.08223018629906,0 -0.6113985077056105,52.08219164773076,0 -0.6116781056014065,52.08214190770254,0 -0.6119821941393866,52.08208420521658,0 -0.6122738152073004,52.0820117994331,0 -0.6125027710417918,52.08192986800076,0 -0.6128054015804307,52.08183448742087,0 -0.6130441538649334,52.08172965906912,0 -0.6132471141904594,52.08163071882341,0 -0.6134869803844067,52.08149623761162,0 -0.6136734112523301,52.0813697295425,0 -0.6138596067857816,52.08121389325415,0 -0.6140587216818127,52.08105056829552,0 -0.6046511369201524,52.07754553362567,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Altitude zone</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6085335384719892,52.07896676578861,1.1 -0.5904274224131112,52.09213057052141,1.1 -0.5984440978381744,52.09517971269342,1.1 -0.6103759964798305,52.07966985685248,1.1 -0.6085335384719892,52.07896676578861,1.1 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Altitude zone</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6247748856949209,52.06519116867486,1.1 -0.6428177094337839,52.05139902175775,1.1 -0.6342017633982755,52.04818844684322,1.1 -0.623055199865663,52.06455109746075,1.1 -0.6247748856949209,52.06519116867486,1.1 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Altitude zone</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.59038681227362,52.09216330333304,0 -0.5702266242447973,52.10542658357549,0 -0.5888353684430447,52.11208100601642,0 -0.5984529820953843,52.09517612225043,0 -0.59038681227362,52.09216330333304,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Altitude zone</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-0.6428147084266311,52.0513931380657,0 -0.6603965354633123,52.04011996471888,0 -0.642986821496857,52.03356590527871,0 -0.6342155182012921,52.04813293755517,0 -0.6428147084266311,52.0513931380657,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
